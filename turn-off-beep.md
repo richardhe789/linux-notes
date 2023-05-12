@@ -1,4 +1,4 @@
-Turn of beep or bell on Linux Terminal
+Turn off beep or bell on Linux Terminal
 ```
 $ vi .inputrc
 set bell-style none
